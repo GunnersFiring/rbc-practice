@@ -14,4 +14,10 @@ int main() {
             x = 0;
         }
     }
+
+    void algo4 {
+        if (x != 0) {
+            no
+        }
+    }
 }
