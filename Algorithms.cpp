@@ -2,6 +2,10 @@ int main() {
     void algo1 {
         ...
     }
+    
+    void Algo2 {
+        // Added In Now   
+    }
 
     void algo3 {
         while (i != 0) {
