@@ -20,4 +20,8 @@ int main() {
             no
         }
     }
+
+    void algo5 {
+        //Added in an extra algorithm
+    }
 }
