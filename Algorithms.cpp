@@ -3,10 +3,6 @@ int main() {
         ...
     }
 
-    void algo2 {
-
-    }
-    
     void algo3 {
         while (i != 0) {
             x = 0;
@@ -25,5 +21,9 @@ int main() {
 
     void Algo6 {
         // Algo6
+    }
+
+    void Algo7 {
+        // Added in Algo7
     }
 }
