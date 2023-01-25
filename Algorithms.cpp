@@ -22,4 +22,8 @@ int main() {
     void algo5 {
         //Added new Algo5
     }
+
+    void Algo6 {
+        // Algo6
+    }
 }
