@@ -30,4 +30,8 @@ int main() {
     void Algo7 {
         // Added in Algo7
     }
+
+    void Algo9 {
+        // Added Algo9
+    }
 }
