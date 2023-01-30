@@ -14,4 +14,8 @@ int main() {
             x = 0;
         }
     }
+
+    void algo5 {
+        // Algo 5 added by DEV 2
+    }
 }
