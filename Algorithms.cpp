@@ -2,10 +2,6 @@ int main() {
     void algo1 {
         ...
     }
-    
-    void Algo2 {
-        // Added In Now   
-    }
 
     void algo3 {
         while (i != 0) {
@@ -30,8 +26,14 @@ int main() {
     void Algo7 {
         // Added in Algo7
     }
+<<<<<<< HEAD
 
     void Algo9 {
         // Added Algo9
+=======
+    
+    void Algo8 {
+        // Added Algo8
+>>>>>>> ed30ad0db9082abcf4e75bf77b6d744dc3876382
     }
 }
